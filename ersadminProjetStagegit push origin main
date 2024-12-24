@@ -1,0 +1,35 @@
+[33mcommit 9b7c9da5b51567abd86ae15d83489887504ed588[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbranch1[m[33m)[m
+Author: imadOukhou <oukhouch.imad@gmail.com>
+Date:   Tue Dec 24 03:07:47 2024 +0100
+
+    modification de server.js
+
+[33mcommit be2077f326ca0529a603bab0a92231593d6f1ada[m
+Author: imadOukhou <oukhouch.imad@gmail.com>
+Date:   Tue Dec 24 02:53:20 2024 +0100
+
+    la connection avec la base de donnees
+
+[33mcommit 8a9221cd3ef9fa730bdd6e4fc591c6c941e50fda[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/ajouterDesNouvelleLignes[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: imadOukhou <oukhouch.imad@gmail.com>
+Date:   Sun Dec 22 14:03:14 2024 +0100
+
+    ajout ima...
+
+[33mcommit f92dc4d35062dd1aa826d538fe3646e261ac5756[m
+Author: imadOukhou <oukhouch.imad@gmail.com>
+Date:   Mon Dec 16 23:57:33 2024 +0100
+
+    ajout d'un autre ligne
+
+[33mcommit 237823261af06f02d94696cbbd42bc2ba0270ee9[m
+Author: imadOukhou <oukhouch.imad@gmail.com>
+Date:   Sun Dec 15 15:56:44 2024 +0100
+
+    1er commit de ce projet
+
+[33mcommit 135e50876ba9499a5e758487ddaa8e5116cb4566[m
+Author: imadOukhou <oukhouch.imad@gmail.com>
+Date:   Sun Dec 15 15:40:02 2024 +0100
+
+    initial commit
