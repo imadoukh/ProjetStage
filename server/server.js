@@ -14,7 +14,7 @@ mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true })
         if (collections.length === 0) {
           console.log('Aucune collection trouvée.');
         } else {
-          console.log('Collections disponibles :');
+          console.log('Collections dispcccconibles :');
           collections.forEach(collection => {
             console.log(collection.name);  // Affiche le nom de chaque collection
           });
