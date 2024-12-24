@@ -6,7 +6,7 @@ const dbURI = 'mongodb://localhost:27017/gestionProjet'; // Changez le nom de la
 // Se connecter à la base de données MongoDB
 mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => {
-    console.log('Connexion réussie à la base de données');
+    console.log('Connexion réussie rere à la base de données');
 
     // Récupérer les noms des collections disponibles dans la base de données
     mongoose.connection.db.listCollections().toArray()
